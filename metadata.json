@@ -1,0 +1,8 @@
+{
+  "name": "Network Path Simulator",
+  "description": "Visualize the Floyd-Warshall algorithm with an interactive graph editor, pathfinding analysis, and persistent storage for network simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
